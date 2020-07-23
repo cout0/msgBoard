@@ -1,0 +1,11 @@
+@charset "gb2312";
+/* CSS Document */
+
+
+* { font-size:20px;}
+body { background:url(../images/back.jpg);background-size:cover; }
+
+a:link{color:blue;}
+a:visted{color:purple;}
+a:hover{color:green;text-decoration:none;}
+a:active{color:yellow;}
